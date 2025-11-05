@@ -1,3 +1,4 @@
+streamlit
 os
 numpy
 pandas
@@ -5,7 +6,6 @@ torch
 sklearn.model_selection
 sklearn.preprocessing
 tqdm
-streamlit
 librosa
 tempfile
 matplotlib.pyplot
