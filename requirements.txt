@@ -1,11 +1,9 @@
 streamlit
-os
 numpy
-pandas
-torch
-sklearn.model_selection
-sklearn.preprocessing
-tqdm
 librosa
+os
 tempfile
+torch
+torch.nn
+torch.nn.functional
 matplotlib.pyplot
